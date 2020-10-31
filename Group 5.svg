@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1125px" height="376px" viewBox="0 0 1125 376" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 5</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" transform="translate(0.000000, 0.500000)">
+            <g id="Rectangle" fill="#000000">
+                <rect x="0" y="0" width="1125" height="375"></rect>
+            </g>
+            <g id="Group" transform="translate(96.000000, 136.500000)">
+                <rect id="Rectangle" fill="#32C5FF" x="0" y="0" width="301" height="125" rx="16"></rect>
+                <text id="Observable&lt;Int&gt;" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="32" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="26" y="73">Observable&lt;Int&gt;</tspan>
+                </text>
+            </g>
+            <g id="Group-4" transform="translate(659.000000, 37.500000)">
+                <rect id="Rectangle-Copy" fill="#F7B500" x="0" y="0" width="307" height="85" rx="16"></rect>
+                <text id="Observer-1" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="28" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="75" y="53">Observer 1</tspan>
+                </text>
+            </g>
+            <g id="Group-3" transform="translate(714.000000, 145.500000)">
+                <rect id="Rectangle-Copy-2" fill="#F7B500" x="0" y="0" width="307" height="85" rx="16"></rect>
+                <text id="Observer-2" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="28" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="73" y="53">Observer 2</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(659.000000, 252.500000)">
+                <rect id="Rectangle-Copy-3" fill="#F7B500" x="0" y="0" width="307" height="85" rx="16"></rect>
+                <text id="Observer-3" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="28" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="73" y="53">Observer 3</tspan>
+                </text>
+            </g>
+            <text id="4,-8,-15,-23,-42-|" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" fill="#FFFFFF">
+                <tspan x="383" y="60.5">4,   8,   15,   23,   42   |</tspan>
+            </text>
+            <text id="4,-8,-15,-23,-42-|-copy" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" fill="#FFFFFF">
+                <tspan x="383" y="354.5">4,   8,   15,   23,   42   |</tspan>
+            </text>
+            <text id="4,-8,-15,-23,-42-|-copy-2" font-family="SFCompactDisplay-Semibold, SF Compact Display" font-size="24" font-weight="500" fill="#FFFFFF">
+                <tspan x="430" y="219.5">4,   8,   15,   23,   42   |</tspan>
+            </text>
+            <path id="Line" d="M603.530835,62.9384694 L637.5,80 L603.469277,96.9384137 L603.493881,82.9863059 C555.355555,83.7361893 520.475781,87.961141 498.968073,95.5929082 C473.134504,104.759658 448.008419,125.471833 423.640994,157.81265 L422.902819,158.796235 L421.106585,161.199054 L416.300946,157.606585 L418.097181,155.203765 C443.349373,121.423957 469.619936,99.6402276 496.961614,89.9383418 C519.235825,82.0345896 554.712465,77.739749 603.505336,76.9853947 L603.530835,62.9384694 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path id="Line-Copy-2" d="M603.522364,222.05343 L637.5,239.098084 L603.477695,256.053401 L603.495079,242.088056 C555.272007,242.632893 520.311745,245.70702 498.713247,251.271063 C472.82474,257.940266 447.724646,272.951541 423.409386,296.359893 L422.590068,297.152119 L420.437949,299.242187 L416.257813,294.937949 L418.409932,292.847881 C443.689568,268.297125 469.959637,252.482458 497.216441,245.460764 C519.399644,239.746094 554.795542,236.634846 603.503272,236.087576 L603.522364,222.05343 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path id="Line-Copy" d="M662.970071,171.559991 L697,188.5 L663.030035,205.559938 L663.005,191.559 L413.505291,191.999995 L410.505296,192.005286 L410.494714,186.005296 L413.494709,186.000005 L662.995,185.559 L662.970071,171.559991 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

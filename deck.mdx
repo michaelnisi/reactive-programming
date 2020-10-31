@@ -142,9 +142,9 @@ import observableInt from './observable-int.svg';
 
 ---
 
-import observers from './observers-int.png';
+import observers from './observers.svg';
 
-<Image src={observers} style={{width: 1008, height: 340}} />
+<Image src={observers} style={{width: 1125, height: 375}} />
 
 ---
 
@@ -156,8 +156,11 @@ import event from './event.png';
 
 ---
 
-import gears from './gears.jpg';
+<Image src={observableInt} style={{width: 1125, height: 375}} />
 
+---
+
+import gears from './gears.jpg';
 
 <Image src={gears} style={{width: 1280, height: 854}}/>
 
@@ -208,6 +211,14 @@ import map from './map.png';
 
 ---
 
+## Traits
+
+- Observable (.error, .next, .completed)
+- Single (.error, .success)
+- Completable (.error, .completed)
+
+---
+
 ## Reactive Programming
 
 <Steps>
@@ -221,7 +232,7 @@ import map from './map.png';
 
 ---
 
-## Happy Coding
+## Rx 📚
 
 - http://reactivex.io
 - https://rxmarbles.com
