@@ -1,17 +1,28 @@
 # Reactive Programming
 
-Motivation and Concept
+Motivation and Principle
+
+---
+
+## Why is it difficult?
+
+<Steps>
+
+- Domain Complexity
+- Solution Complexity
+- System Complexity
+
+</Steps>
 
 ---
 
 ## History
 
 - 1997 📄 Functional Reactive Animation by Conal Elliott and Paul Hudak
-- 2009 Rx 1.0 for .NET, Erik Meijer & team at Microsoft
-- 2012 Elm language
+- 2009 Rx 1.0 for .NET, 🌈 Erik Meijer & team at Microsoft
 - 2013 Rx for Java, Netflix
 - 2014 Reactive Manifesto
-- 2015 Reactive streams standard
+- 2015 Reactive streams standard 🚰
 - Rx on all platforms & many other libraries
 - 2019 Combine, Apple
 
@@ -37,7 +48,7 @@ import wizardSchool from './wizard-school.png';
 
 ---
 
-## Asynchronous Systems
+## System Complexity
 
 import dispatchCenter from './dispatch-center.jpeg';
 
@@ -78,7 +89,21 @@ import reactivex from './reactivex.svg';
 
 ---
 
-<Image src={wizardSchool} width={1024} height={768} />
+# Observables
+
+---
+
+import erik from './erik-meijer.jpg';
+
+<Image src={erik} width={511} height={768} />
+
+Erik Meijer
+
+---
+
+import raven from './raven.svg';
+
+<Image src={raven} width={640} height={640} />
 
 ---
 
@@ -144,17 +169,17 @@ import observableInt from './observable-int.svg';
 
 ---
 
-import observers from './observers.svg';
-
-<Image src={observers} style={{width: 1125, height: 375}} />
-
----
-
 import event from './event.png';
 
 ## Rx.Event
 
 <Image src={event} style={{width: 769, height: 388}} />
+
+---
+
+import observers from './observers.svg';
+
+<Image src={observers} style={{width: 1125, height: 375}} />
 
 ---
 
@@ -168,14 +193,15 @@ import gears from './gears.jpg';
 
 ---
 
-## Operators ⚙️🧮
+## Operators ⚙️
 
 <Steps>
 
-- Map
-- Filter
-- FlatMap
-- Zip
+- map
+- filter
+- flatMap
+- zip
+- …
 
 </Steps>
 
@@ -216,9 +242,10 @@ import map from './map.svg';
 
 ## Traits
 
-- Observable (.error, .next, .completed)
-- Single (.error, .success)
-- Completable (.error, .completed)
+- `Observable<T>` .error, .next, .completed
+- `Single<T>` .error, .success
+- `Completable` .error, .completed
+- …
 
 ---
 
@@ -229,7 +256,7 @@ import map from './map.svg';
 - Asynchronous ⏲
 - Observable 🕵🏻‍♀️
 - Sequences 🍒🥝🍓🍐
-- Functional Operators ⚙️🧮
+- Functional Operators ⚙️
 
 </Steps>
 
